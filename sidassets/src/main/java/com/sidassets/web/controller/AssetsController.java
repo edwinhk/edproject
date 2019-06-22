@@ -22,7 +22,6 @@ public class AssetsController {
 	@RequestMapping(value = "/assets/insert", method = RequestMethod.GET)
 	public String insertList(Model model) {
 		
-		//model.addAttribute("list",  );
 		return "atInsert";
 	}
 	

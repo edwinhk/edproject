@@ -2,10 +2,10 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <html>
 <head>
-	<title>Home</title>
+	<title>자산추가</title>
 </head>
 <body>
-<h1>자산목</h1>
+<h1>자산추가</h1>
 <session>
 	<table>
 		<thead>
@@ -20,7 +20,7 @@
 	
 			<tbody>
 				<tr>
-					<td>edwin</td>
+					<td></td>
 				</tr>
 			</tbody>
 	
