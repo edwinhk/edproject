@@ -14,4 +14,16 @@ public class AssetsController {
 		//model.addAttribute("list",  );
 		return "atlist";
 	}
+	
+	/*
+	 * glory 
+	 * insert assets 
+	 */
+	@RequestMapping(value = "/assets/insert", method = RequestMethod.GET)
+	public String insertList(Model model) {
+		
+		//model.addAttribute("list",  );
+		return "atInsert";
+	}
+	
 }
