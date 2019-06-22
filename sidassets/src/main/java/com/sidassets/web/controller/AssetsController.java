@@ -5,6 +5,10 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
+/*
+ * edwin
+ * main list
+ */
 @Controller
 public class AssetsController {
 	

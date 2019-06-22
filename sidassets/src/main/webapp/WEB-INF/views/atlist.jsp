@@ -8,19 +8,32 @@
 <h1>자산추가</h1>
 <session>
 	<table>
+		<colgroup>
+
+			<col style="width:5%;" />
+
+			<col style="width:auto;" />
+
+			<col style="width:15%;" />
+
+			<col style="width:10%;" />
+
+			<col style="width:10%;" />
+
+		</colgroup>
 		<thead>
 			<tr>
 				<th>NO</th>
-				<th>글제목</th>
-				<th>작성자</th>
-				<th>조회수</th>
-				<th>작성일</th>
+				<th>사용자</th>
+				<th>유형</th>
+				<th>부서</th>
+				<th>등록일</th>
 			</tr>
 		</thead>
 	
 			<tbody>
 				<tr>
-					<td> </td>
+					<td></td>
 				</tr>
 			</tbody>
 	
